@@ -1,4 +1,4 @@
-<footer class="bg-gray-900 text-white mt-10">
+<footer class="bg-gray-800 text-white mt-10">
     <div class="container mx-auto p-6 grid grid-cols-1 md:grid-cols-2 gap-6 ">
         <div>
             <h2 class="text-lg font-bold mb-2">Donasiku</h2>
