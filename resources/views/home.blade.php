@@ -1,7 +1,15 @@
-<div>
-  <a href="/">Home</a>
-  <a href="/kontak">Kontak</a>
-  <a href="/Profile">Profile</a>
+@extends('app')
 
-  <h1>Halaman Home</h1>
+@section('title', 'Home')
+
+@section('content')
+<div class="text-center">
+  <h1 class="text-3x1 font-bold text-green-600 mb-4">
+    Selamat Datang di Donasiku
+  </h1>
+  <p class="text-gray-600">
+    Mari Berbagi kebaikan dan bantu sesama
+  </p>
 </div>
+
+@endsection
