@@ -8,6 +8,7 @@
         <nav class="space-x-6">
            <a href="/" class="text-grey-700 hover:text-green-600">Home</a>
            <a href="/Donasi" class="text-grey-700 hover:text-green-600">Donasi</a>
+           <a href="{{route('campaign.index')}}" class="text-grey-700 hover:text-green-600">Campaign</a>
            <a href="/Profile" class="text-grey-700 hover:text-green-600">Profile</a>
            <a href="/Kontak" class="text-grey-700 hover:text-green-600">Kontak</a>
         </nav>
